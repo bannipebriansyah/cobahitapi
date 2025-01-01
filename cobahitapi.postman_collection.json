@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "7183574b-6a74-4b9d-bc96-4faa087729cc",
+		"name": "cobahitapi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6165279",
+		"_collection_link": "https://dark-shuttle-143428.postman.co/workspace/apibannip~1f710c6d-8bde-450e-8419-7cb72e63b69b/collection/6165279-7183574b-6a74-4b9d-bc96-4faa087729cc?action=share&source=collection_link&creator=6165279"
+	},
+	"item": [
+		{
+			"name": "Get current air pollution of Jakarta Selatan",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get 5-day weather forecast of Jakarta Selatan",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
